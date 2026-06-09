@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/download",
-      "destination": "https://julianwindeck.de/",
+      "destination": "https://api.attention.inc/download/lite",
       "permanent": false
     }
   ]
