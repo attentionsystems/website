@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/download",
+      "destination": "https://julianwindeck.de/",
+      "permanent": false
+    }
+  ]
+}
